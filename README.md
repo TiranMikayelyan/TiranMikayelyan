@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Tiran Mikayelyan.<br>🌍 I'm passionate about I'm a football player, I like to read books,  I play PC Games and I write Python Codes .<br>💼 I work as a Python Programmer.<br>📧 You can reach me at tiranmiq10@gmail.com.<br>
+👋 Hi, I'm Tiran Mikayelyan.<br>🌍  I'm a football player, I like to read books,  I play PC Games and I write Python Codes .<br>💼 I work as a Python Programmer.<br>📧 You can reach me at tiranmiq10@gmail.com.<br>
 
 
 ## 🌐 Socials:
